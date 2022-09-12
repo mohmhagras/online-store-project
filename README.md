@@ -11,6 +11,10 @@ I built the entire frontend of the web app and improved the server by adding the
 
 ## Live URL:
 https://online-store-client.vercel.app
+
+## Video preview: 
+https://youtu.be/CzvkL2d4QFQ
+
 ## Features
 - Home page:
   - filtering products based on category
