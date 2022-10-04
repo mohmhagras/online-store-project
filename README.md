@@ -1,6 +1,4 @@
 # online-store-project
-T
-I built the entire frontend of the web app and improved the server by adding the ability to make orders, update order statuses and store products and orders data on a MongoDB database instead of locally on the server.
 
 ## Tech stack used: 
 - Create React App, GraphQL, Apollo Client, Nodejs, Apollo Server, and MongoDB.
